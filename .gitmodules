@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "summarySCI"]
+	path = summarySCI
+	url = https://github.com/sakk-statistics/summarysci
 [submodule "survSAKK"]
 	path = survSAKK
 	url = https://github.com/sakk-statistics/survsakk
